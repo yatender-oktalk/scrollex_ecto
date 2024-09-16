@@ -47,4 +47,4 @@ ScrollexEcto is created and maintained by Yatender Singh Suman.
 
 Copyright (c) 2024 Yatender Singh Suman
 
-ScrollexEcto is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+ScrollexEcto is released under the MIT License. See the [LICENSE](https://github.com/yatender-oktalk/scrollex_ecto/blob/main/LICENCE) file for details.
