@@ -1,7 +1,7 @@
 defmodule ScrollexEcto.MixProject do
   use Mix.Project
 
-  @version "0.1.0+minor"
+  @version "0.1.0"
   @source_url "https://github.com/yatender-oktalk/scrollex_ecto"
 
   def project do
