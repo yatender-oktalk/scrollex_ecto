@@ -9,7 +9,7 @@ Add `scrollex_ecto` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:scrollex_ecto, "~> 0.1.0"}
+    {:scrollex_ecto, "~> 0.1.0+minor"}
   ]
 end
 ```
